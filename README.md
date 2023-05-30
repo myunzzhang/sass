@@ -20,3 +20,21 @@
 ![image](https://github.com/myunzzhang/sass/assets/129017008/76dacc50-50d5-4bba-a905-9bcc2ed2f848)
 
 
+# 🐸~은 style.css를 의미 ⬇
+
+![image](https://github.com/myunzzhang/sass/assets/129017008/79205e7e-3faf-445a-bf77-abd05948e518)
+
+
+# 🐸scss파일이 있는 폴더의 상위요소에 생성 ⬇
+
+![image](https://github.com/myunzzhang/sass/assets/129017008/46016930-7fd0-4d5f-990f-da456e7178e3)
+
+
+# 🐸주석만들기 ⬇
+## //주석은 css에 컴파인 x
+##  /* */ 주석은 css에 컴파인 o
+
+![image](https://github.com/myunzzhang/sass/assets/129017008/e4a76bd7-75b3-4181-bc7c-0bbf693fd731)
+
+
+# 🐸변수만들기 --> $로 시작함, (영문, 숫자, -, _)만 사용할 수 있음. 숫자로 시작할 수 없음⬇
