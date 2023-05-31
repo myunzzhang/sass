@@ -102,5 +102,8 @@
 ![image](https://github.com/myunzzhang/sass/assets/129017008/e4d9dee8-8a0a-47ca-81fd-29ee57f33373)
 
 
+# 🍻 *(와일드카드)를 붙이면 이름을 생략할 수 있음
+
+![image](https://github.com/myunzzhang/sass/assets/129017008/16105c52-9bc0-4887-9e85-2e20c9293184)
 
 
