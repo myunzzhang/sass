@@ -107,3 +107,12 @@
 ![image](https://github.com/myunzzhang/sass/assets/129017008/16105c52-9bc0-4887-9e85-2e20c9293184)
 
 
+
+# 전역변수와 지역변수
+
+![image](https://github.com/myunzzhang/sass/assets/129017008/c0d0a05e-8225-4b50-9470-1c84a2c25978)
+
+# 보간법
+
+![image](https://github.com/myunzzhang/sass/assets/129017008/b8637522-ce4b-4cd9-b5de-a09706664bbe)
+
