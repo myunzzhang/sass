@@ -107,6 +107,7 @@
 ![image](https://github.com/myunzzhang/sass/assets/129017008/16105c52-9bc0-4887-9e85-2e20c9293184)
 
 
+--------------------------------------------------------------
 
 # 전역변수와 지역변수
 
@@ -115,4 +116,15 @@
 # 보간법
 
 ![image](https://github.com/myunzzhang/sass/assets/129017008/b8637522-ce4b-4cd9-b5de-a09706664bbe)
+
+# nesting(네스팅) == 품다
+
+
+--------------------------------------------------------------------
+
+
+# 함수 
+
+![image](https://github.com/myunzzhang/sass/assets/129017008/36ce1402-aee4-429a-b4c7-bc1e26daf3aa)
+
 
