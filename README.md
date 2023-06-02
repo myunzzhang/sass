@@ -129,4 +129,9 @@
 
 ![image](https://github.com/myunzzhang/sass/assets/129017008/6d315b8d-88c1-49c0-8ea8-9a089d542547)
 
+# extend
+
+![image](https://github.com/myunzzhang/sass/assets/129017008/a75d5712-afd8-418b-b5e5-5cc569b5ae66)
+
+
 
