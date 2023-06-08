@@ -79,8 +79,7 @@
 
        * 🖤 sass 화면 -- @use './partials/mixins';를 이용하여 파샬을 부른다.
        
- ![image](https://github.com/myunzzhang/sass/assets/129017008/71c23d6b-43e1-4fc1-972b-0acec913f087)
-
+ ![image](https://github.com/myunzzhang/sass/assets/129017008/9f5af769-168d-4c33-9982-7a69603e84d0)
        
        * 🖤 css 화면
        
