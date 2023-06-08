@@ -1,4 +1,4 @@
-# ‼️ 함수 _ basic8
+# ‼️ 함수 _ basic8 / basic9
 
 # 1️⃣ extend 함수
 
@@ -49,21 +49,40 @@
 
     * 🖤 sass 화면
     
-  ![image](https://github.com/myunzzhang/sass/assets/129017008/8b1e8429-a682-43aa-8c01-23eefb819722)
+ ![image](https://github.com/myunzzhang/sass/assets/129017008/8b1e8429-a682-43aa-8c01-23eefb819722)
 
     
     * 🖤 css 화면
     
-  ![image](https://github.com/myunzzhang/sass/assets/129017008/0f1e725b-3bf8-419f-9ab7-d4882be14fa9)
+ ![image](https://github.com/myunzzhang/sass/assets/129017008/0f1e725b-3bf8-419f-9ab7-d4882be14fa9)
 
   # ✒️ class명을 추가하여 부를 수 있다.
   
     * 🖤 sass 화면
     
-  ![image](https://github.com/myunzzhang/sass/assets/129017008/303986bc-81ac-49f2-a111-92408850d3db)
+ ![image](https://github.com/myunzzhang/sass/assets/129017008/303986bc-81ac-49f2-a111-92408850d3db)
 
     
     * 🖤 css 화면
     
-  ![image](https://github.com/myunzzhang/sass/assets/129017008/5875419a-cd4b-4a16-9640-47423e776117)
+ ![image](https://github.com/myunzzhang/sass/assets/129017008/5875419a-cd4b-4a16-9640-47423e776117)
+  
+  
+  # partials을 이요한 함수 표현
+  
+ ![image](https://github.com/myunzzhang/sass/assets/129017008/8979da6e-f11e-4ae0-b25f-46df72cd8dbf)
+  
+       * 🖤 _mixins.scss
+  
+ ![image](https://github.com/myunzzhang/sass/assets/129017008/b026fce4-4c5a-40e1-9ca1-78eee01ab47d)
+
+
+       * 🖤 sass 화면 -- @use './partials/mixins';를 이용하여 파샬을 부른다.
+       
+ ![image](https://github.com/myunzzhang/sass/assets/129017008/71c23d6b-43e1-4fc1-972b-0acec913f087)
+
+       
+       * 🖤 css 화면
+       
+ ![image](https://github.com/myunzzhang/sass/assets/129017008/a09617b3-7b36-4afc-88df-6dd679707b91)
 
