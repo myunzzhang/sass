@@ -1,0 +1,39 @@
+// 할때마다 코드를 치는게 하니라 한번 적고 계속 사용함. 회사가면 쥼,,, partials로 줌
+@mixin flex ($isHorizontal,
+    $justtifyCon,
+    $alignIte,
+    $gap) {
+
+    display: flex;
+
+    // 함수에 관한것은 @를 붙어줘야한다.
+    @if($isHorizontal==true) {
+        flex-direction: row;
+    }
+
+    @else {
+        flex-direction: column;
+    }
+
+    @if($justtifyCon=='start') {
+        justify-content: flex-start;
+    }
+
+    @else if ($justtifyCon=='center') {
+        justify-content: center;
+    }
+
+    @else if ($justtifyCon=='end') {
+        justify-content: flex-end;
+    }
+
+    @if ($alignIte=='start') {
+        align-items: center;
+    }
+
+    @else if ($alignIte=='end') {
+        align-self: flex-end;
+    }
+
+    gap:$gap
+}

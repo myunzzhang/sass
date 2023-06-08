@@ -1,0 +1,7 @@
+@use './partials/mixins';
+
+
+.cls {
+    @include mixins.flex(true, 'center', 'center', 20px);
+}
+
