@@ -70,16 +70,16 @@
   
   # 3️⃣ partials을 이요한 함수 표현 _ basic9
   
- ![image](https://github.com/myunzzhang/sass/assets/129017008/8979da6e-f11e-4ae0-b25f-46df72cd8dbf)
-  
+
        * 🖤 _mixins.scss
   
- ![image](https://github.com/myunzzhang/sass/assets/129017008/b026fce4-4c5a-40e1-9ca1-78eee01ab47d)
-
+ ![image](https://github.com/myunzzhang/sass/assets/129017008/8979da6e-f11e-4ae0-b25f-46df72cd8dbf)
+ 
 
        * 🖤 sass 화면 -- @use './partials/mixins';를 이용하여 파샬을 부른다.
        
  ![image](https://github.com/myunzzhang/sass/assets/129017008/9f5af769-168d-4c33-9982-7a69603e84d0)
+ 
        
        * 🖤 css 화면
        
