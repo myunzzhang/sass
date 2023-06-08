@@ -1,4 +1,4 @@
-# ‼️ 함수 _ basic8 / basic9
+# ‼️ 함수 _ basic8 
 
 # 1️⃣ extend 함수
 
@@ -52,7 +52,7 @@
  ![image](https://github.com/myunzzhang/sass/assets/129017008/8b1e8429-a682-43aa-8c01-23eefb819722)
 
     
-    * 🖤 css 화면
+    * 🖤 css 화면 
     
  ![image](https://github.com/myunzzhang/sass/assets/129017008/0f1e725b-3bf8-419f-9ab7-d4882be14fa9)
 
@@ -68,7 +68,7 @@
  ![image](https://github.com/myunzzhang/sass/assets/129017008/5875419a-cd4b-4a16-9640-47423e776117)
   
   
-  # partials을 이요한 함수 표현
+  # 3️⃣ partials을 이요한 함수 표현 _ basic9
   
  ![image](https://github.com/myunzzhang/sass/assets/129017008/8979da6e-f11e-4ae0-b25f-46df72cd8dbf)
   
