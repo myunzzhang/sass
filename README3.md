@@ -27,3 +27,8 @@
 # 🦖 @mixin를 이용한 데이터
 
 ![image](https://github.com/myunzzhang/sass/assets/129017008/e2ef1f42-aac0-44e2-b888-d70fb1d3f268)
+
+
+# 🦖 partials를 이용하여 부르는 법
+
+![image](https://github.com/myunzzhang/sass/assets/129017008/ddc78de2-0d44-4564-b288-9d7e739afa46)
